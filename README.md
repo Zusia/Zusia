@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zusia
 - 👀 I’m interested in Web development, Sketching, coding.
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Java Web Servies.
 - 💞️ I’m looking to collaborate on Web page development
 - 📫 How to reach me @https://www.facebook.com/rsushmita32
 
